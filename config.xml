@@ -1,0 +1,13 @@
+<widget id="org.tpmchester.sermon" version="0.0.1">
+      <name>TPM Sermon</name>
+      <description>
+          App that plays a weekly sermon.
+      </description>
+      <author email="larryicr@gmail.com" href="http://somptech.org">
+          SoMP Tech's Larry Bray
+      </author>
+      <content src="index.html" />
+      <access origin="*" />
+	  <preference name="Orientation" value="landscape" />
+	  <preference name="KeepRunning" value="false"/>
+</widget>
